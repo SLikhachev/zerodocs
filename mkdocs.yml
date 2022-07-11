@@ -1,19 +1,24 @@
 site_name: Omslite
-site_url: https://example.com/
+site_url: http://omslite.site/
 nav:
   - "Мотивация и цели":
     - index.md
   - "Инструкции":
-    - omsite.md
-    - demodb.md
-    - reestr.md
-    - invoice.md
+    - user/omsite.md
+    - user/demodb.md
+    - user/sprav.md
+    - "Справочники":
+      - user/sprav/local.md
+    - user/clinic.md
+    - user/reestr.md
   - "Технические детали":
-    - struct.md
-    - workdb.md
-    - jwt_auth.md
-    - pg_rest.md
-    - task_rest.md
-    - spa.md
-    - local_deploy.md
+    - admin/struct.md
+    - admin/workdb.md
+    - admin/jwt_auth.md
+    - admin/pg_rest.md
+    - admin/task_rest.md
+    - admin/spa.md
+    - admin/local_deploy.md
+  - "Регистрация МО":
+    - service/mo_register.md
 theme: readthedocs
