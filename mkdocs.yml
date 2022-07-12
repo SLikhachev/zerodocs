@@ -9,6 +9,8 @@ nav:
     - user/sprav.md
     - "Справочники":
       - user/sprav/local.md
+      - user/sprav/prof.md
+      - user/sprav/pmu.md
     - user/clinic.md
     - user/reestr.md
   - "Технические детали":

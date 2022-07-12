@@ -38,24 +38,24 @@ Python3 и ряд пакетов от которых зависит сервис
 
 ## Инструкции
 
-- [Начало работы, регистрация на сайте](user/omsite.md).
-- [Демонстрационная база данных](user/demodb.md).
-- [Справочники БД](user/sprav.md).
-- [Клиника (пациенты и талоны)](user/clinic.md).
-- [Реестр (реестры в ТФОМС и счета в СМО)](user/reestr.md).
+- [Начало работы, регистрация на сайте](./user/omsite.md).
+- [Демонстрационная база данных](./user/demodb.md).
+- [Справочники БД](./user/sprav.md).
+- [Клиника (пациенты и талоны)](./user/clinic.md).
+- [Реестр (реестры в ТФОМС и счета в СМО)](./user/reestr.md).
 
 ## Технические детали
 
-- [Структура сервиса](admin/struct.md)
-- [Рабочая база данных](admin/workdb.md)
-- [Аутентификация JWT](admin/jwt_auth.md)
-- [Сервис pg_rest](admin/pg_rest.md)
-- [Сервис task_rest](admin/task_rest.md)
-- [Одностраничные приложения](admin/spa.md)
-- [Локальный деплой](admin/local_deploy.md)
+- [Структура сервиса](./admin/struct.md)
+- [Рабочая база данных](./admin/workdb.md)
+- [Аутентификация JWT](./admin/jwt_auth.md)
+- [Сервис pg_rest](./admin/pg_rest.md)
+- [Сервис task_rest](./admin/task_rest.md)
+- [Одностраничные приложения](./admin/spa.md)
+- [Локальный деплой](./admin/local_deploy.md)
 
 ## Техническая поддержка
 
-- [Регистрация МО](service/mo_register.md)
+- [Регистрация МО](./service/mo_register.md)
 
-По всем вопросам просим обращаться на электронную почту <zeroms@inbox.ru>
+По всем вопросам просим обращаться на электронную почту: <a href="mailto:zeroms@inbox.ru">"zeroms@inbox.ru"</a>
