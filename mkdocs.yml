@@ -11,6 +11,8 @@ nav:
       - user/sprav/local.md
       - user/sprav/prof.md
       - user/sprav/pmu.md
+      - user/sprav/comm.md
+      - user/sprav/tarif.md
     - user/clinic.md
     - user/reestr.md
   - "Технические детали":
