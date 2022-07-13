@@ -6,14 +6,20 @@ nav:
   - "Инструкции":
     - user/omsite.md
     - user/demodb.md
-    - user/sprav.md
-    - "Справочники":
+    - "Приложение Справочники":
+      - user/sprav/sprav.md
       - user/sprav/local.md
       - user/sprav/prof.md
       - user/sprav/pmu.md
       - user/sprav/comm.md
       - user/sprav/tarif.md
-    - user/clinic.md
+    - "Приложение Клиника":
+      - user/clinic/clinic.md
+      - user/clinic/cards_find.md
+      - user/clinic/cards_edit.md
+      - user/clinic/talons_find.md
+      - user/clinic/talons_edit.md
+      - user/clinic/tmpl_edit.md
     - user/reestr.md
   - "Технические детали":
     - admin/struct.md
