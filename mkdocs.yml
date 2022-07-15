@@ -19,8 +19,10 @@ nav:
       - user/clinic/cards_edit.md
       - user/clinic/talons_find.md
       - user/clinic/talons_edit.md
-      - user/clinic/tmpl_edit.md
-    - user/reestr.md
+      - user/clinic/tmpls_find.md
+      - user/clinic/tmpls_edit.md
+  - "Приложение Реестры":
+      - user/reestr/reestr.md
   - "Технические детали":
     - admin/struct.md
     - admin/workdb.md
