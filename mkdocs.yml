@@ -21,7 +21,7 @@ nav:
       - user/clinic/talons_edit.md
       - user/clinic/tmpls_find.md
       - user/clinic/tmpls_edit.md
-  - "Приложение Реестры":
+    - "Приложение Реестры":
       - user/reestr/reestr.md
   - "Технические детали":
     - admin/struct.md
