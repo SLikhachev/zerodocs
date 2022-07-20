@@ -23,6 +23,9 @@ nav:
       - user/clinic/tmpls_edit.md
     - "Приложение Реестры":
       - user/reestr/reestr.md
+      - user/reestr/packs.md
+      - user/reestr/errors.md
+      - user/reestr/invoice.md
   - "Технические детали":
     - admin/struct.md
     - admin/workdb.md
