@@ -29,11 +29,14 @@ nav:
   - "Технические детали":
     - admin/struct.md
     - admin/workdb.md
-    - admin/jwt_auth.md
     - admin/pg_rest.md
     - admin/task_rest.md
-    - admin/spa.md
     - admin/local_deploy.md
+    - admin/jwt_auth.md
+    - admin/spa.md
+    - admin/barsxml.md
+    - admin/tk_errors.md
+    - admin/invoice.md
   - "Регистрация МО":
     - service/mo_register.md
 theme: readthedocs
