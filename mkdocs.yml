@@ -33,6 +33,7 @@ nav:
     - admin/task_rest.md
     - admin/local_deploy.md
     - admin/jwt_auth.md
+    - admin/access.md
     - admin/spa.md
     - admin/barsxml.md
     - admin/tk_errors.md
