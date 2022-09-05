@@ -40,4 +40,6 @@ nav:
     - admin/invoice.md
   - "Регистрация МО":
     - service/mo_register.md
+    - service/user_profile.md
+    - service/mo_profile.md
 theme: readthedocs
