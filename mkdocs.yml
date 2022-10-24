@@ -36,6 +36,7 @@ nav:
     - admin/access.md
     - admin/spa.md
     - admin/barsxml.md
+    - admin/task_rest_api.md
     - admin/tk_errors.md
     - admin/invoice.md
   - "Регистрация МО":
