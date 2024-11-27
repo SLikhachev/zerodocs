@@ -18,7 +18,7 @@
 ### Схема рабочей БД
 
 Актуальная схемы рабочей БД располагается по адресу:
-<a href="http://omslite.site/static/db_mate/schema_latest.zip" target=_blank>__schema_latest.zip__</a>.
+<a href="https://taskrest.omslite.site/utils/file/db/schema/schema_latest.tar.gz">__schema_latest.tar.gz__</a>.
 
 В скачанном архиве находятся:
 
@@ -37,6 +37,6 @@
 - и т. д.
 
 МО имеет возможность скачать самый последний дамп _Демо БД_ по адресу:
-<a href="http://omslite.site/static/db_dump/dump_latest.zip" traget=_blank>__dump_latest.zip__</a>.
+<a href="https://taskrest.omslite.site/utils/file/db/dump/dump_latest.back">__dump_latest.back__</a>. Дамп сделан с помощью утитлиты pg_dump.
 
 В актуальной версии сервиса все таблицы общих справочников находятся в одном дампе БД.
